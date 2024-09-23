@@ -5,7 +5,7 @@ def add(a, b):
 
 def sub(a, b):
     "sub of two numbers"
-    return
+    return a - b
 
 
 add(a=2, b=3)
