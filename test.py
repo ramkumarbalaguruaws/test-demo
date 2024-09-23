@@ -4,4 +4,5 @@ def add(a, b):
 
 
 def sub(a, b):
+    "sub of two numbers"
     ...
