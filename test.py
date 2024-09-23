@@ -1,10 +1,16 @@
 def add(a, b):
-    """Sum of two numbers"""
+    """
+    Sum of two numbers in python
+
+    """
     return a + b
 
 
 def sub(a, b):
-    """sub of two numbers"""
+    """
+    sub of two numbers in python
+
+    """
     return a - b
 
 
