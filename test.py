@@ -14,4 +14,12 @@ def sub(a, b):
     return a - b
 
 
+def mul(a, b):
+    """
+    mul of two numbers in python
+
+    """
+    return a * b
+
+
 add(a=2, b=3)
